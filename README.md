@@ -13,5 +13,7 @@ Sales forecast is the foundation of the financial story for any business. Once a
 ### Sales forecast helps to answer all of these questions and potentially any others that involve the future of the business.
 
 What do you hope to achieve in the next month? Year? 5-years? 
+
 How many customers do you hope to have next month and next year?
+
 How much will each customer hopefully spend with your company?
